@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "prehistoric:block/skull_block_lantern"
+    },
+    "facing=south": {
+      "model": "prehistoric:block/skull_block_lantern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "prehistoric:block/skull_block_lantern",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "prehistoric:block/skull_block_lantern",
+      "y": 90
+    }
+  }
+}

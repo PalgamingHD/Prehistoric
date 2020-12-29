@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "prehistoric:block/arch_table_top_idle",
+    "down": "prehistoric:block/arch_table_bottom",
+    "up": "prehistoric:block/arch_table_top_idle",
+    "north": "prehistoric:block/arch_table_side1",
+    "east": "prehistoric:block/arch_table_side2",
+    "south": "prehistoric:block/arch_table_side1",
+    "west": "prehistoric:block/arch_table_side2"
+  }
+}

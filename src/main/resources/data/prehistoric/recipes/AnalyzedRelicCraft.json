@@ -1,0 +1,8 @@
+{
+  "type": "prehistoric:analyzer",
+  "ingredient": {
+    "item": "prehistoric:relic_scrap"
+  },
+  "result": "prehistoric:analyzed_relic",
+  "experience": 0.2
+}

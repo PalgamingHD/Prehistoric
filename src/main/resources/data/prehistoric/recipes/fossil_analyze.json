@@ -1,0 +1,8 @@
+{
+  "type": "prehistoric:analyzer",
+  "ingredient": {
+    "item": "prehistoric:fossil"
+  },
+  "result": "minecraft:diamond",
+  "experience": 0.2
+}

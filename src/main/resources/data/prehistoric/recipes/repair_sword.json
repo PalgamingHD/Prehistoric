@@ -1,0 +1,8 @@
+{
+  "type": "prehistoric:archeology_workbench",
+  "ingredient": {
+    "item": "prehistoric:broken_ancient_sword"
+  },
+  "result": "prehistoric:ancient_sword",
+  "experience": 0.2
+}

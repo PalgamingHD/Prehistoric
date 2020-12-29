@@ -1,0 +1,8 @@
+{
+  "type": "prehistoric:archeology_workbench",
+  "ingredient": {
+    "item": "prehistoric:scarab_hoe"
+  },
+  "result": "prehistoric:scarab_hoe",
+  "experience": 0.2
+}

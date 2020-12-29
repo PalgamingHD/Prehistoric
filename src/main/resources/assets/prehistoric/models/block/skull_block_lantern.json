@@ -1,0 +1,10 @@
+{
+  "parent": "block/orientable",
+  "textures":
+  {
+    "particle": "prehistoric:block/skull_side",
+    "top": "prehistoric:block/skull_side",
+    "front": "prehistoric:block/skull_front_on",
+    "side": "prehistoric:block/skull_side"
+  }
+}

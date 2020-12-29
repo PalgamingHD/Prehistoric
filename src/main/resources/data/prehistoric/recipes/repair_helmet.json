@@ -1,0 +1,8 @@
+{
+  "type": "prehistoric:archeology_workbench",
+  "ingredient": {
+    "item": "prehistoric:broken_ancient_helmet"
+  },
+  "result": "prehistoric:ancient_helmet",
+  "experience": 0.2
+}

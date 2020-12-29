@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "#F#",
+    "#R#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "F": {
+      "item": "prehistoric:fossil"
+    },
+    "R": {
+      "item": "prehistoric:relic_scrap"
+    }
+  },
+  "result": {
+    "item": "prehistoric:analyzer",
+    "count": 1
+  }
+}

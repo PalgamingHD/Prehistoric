@@ -1,0 +1,8 @@
+{
+  "type": "prehistoric:sifter",
+  "ingredient": {
+    "item": "minecraft:gravel"
+  },
+  "result": "prehistoric:silted_mush",
+  "experience": 0.2
+}

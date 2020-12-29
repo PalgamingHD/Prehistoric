@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " C ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "result": {
+    "item": "prehistoric:archeology_workbench",
+    "count": 1
+  }
+}

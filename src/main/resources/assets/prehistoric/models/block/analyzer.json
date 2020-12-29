@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "prehistoric:block/analyzer_front_active",
+    "south": "prehistoric:block/analyzer_side",
+    "east": "prehistoric:block/analyzer_side",
+    "west": "prehistoric:block/analyzer_side",
+    "up": "prehistoric:block/analyzer_top",
+    "down": "prehistoric:block/analyzer_top",
+    "particle": "prehistoric:block/analyzer_side"
+  }
+}

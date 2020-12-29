@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
+  "addition": {
+    "item": "prehistoric:scarab"
+  },
+  "result": {
+    "item": "prehistoric:scarab_axe"
+  }
+}

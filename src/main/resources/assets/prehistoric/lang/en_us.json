@@ -1,0 +1,26 @@
+{
+  "block.prehistoric.fossil_block": "Fossil Block",
+  "item.prehistoric.fossil": "Fossil",
+  "item.prehistoric.silted_mush": "Silted Mush",
+  "block.prehistoric.sifter": "Sifter",
+  "item.prehistoric.relic_scrap": "Relic Scraps",
+  "block.prehistoric.skull_block": "Skull",
+  "block.prehistoric.skull_block_lantern": "Skull Lantern",
+  "item.prehistoric.ancient_sword": "Ancient Sword",
+  "item.prehistoric.broken_ancient_sword": "Broken Ancient Sword",
+  "item.prehistoric.scarab": "Scarab Gem",
+  "item.prehistoric.ancient_helmet": "Ancient Helmet",
+  "item.prehistoric.broken_ancient_helmet": "Broken Ancient Helmet",
+  "itemGroup.prehistoric.general": "General",
+  "item.prehistoric.scarab_pickaxe": "Scarab Pickaxe",
+  "item.prehistoric.scarab_axe": "Scarab Axe",
+  "item.prehistoric.scarab_sword": "Scarab Sword",
+  "item.prehistoric.scarab_shovel": "Scarab Shovel",
+  "item.prehistoric.scarab_hoe": "Scarab Hoe",
+  "block.prehistoric.analyzer": "Analyzer",
+  "block.prehistoric.archeology_workbench": "Archeology Workbench",
+  "item.prehistoric.analyzed_relic": "Analyzed Relic",
+  "item.prehistoric.stone_tablet": "Stone Tablet",
+  "item.prehistoric.pottery_shard": "Pottery Shard"
+
+}
