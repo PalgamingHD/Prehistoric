@@ -15,8 +15,8 @@ An attempt to bring Dinosaurs and Fossils to Fabric 1.16.4
 <p><a href="https://bisecthosting.com/palgaminghd"><img src="https://www.bisecthosting.com/images/logos/dark_text@1538x500.png" alt="" width="336" height="109" /></a></p>
 <p>Using the link above (By clicking on the picture), select a plan(at least 4GB in order to support me), use my code&nbsp;<strong><em>palgaminghd</em></strong>&nbsp;to get&nbsp;<strong>25%</strong>&nbsp;off your first month and enjoy playing with your friends!</p>
 <p>&nbsp;</p>
-<p><a href="https://discord.gg/Ye4ZFf9e3s"><img src="https://i.imgur.com/ixMiOzK.png" alt="Made a couple of Discord join server buttons for all to use. Enjoy! - Album  on Imgur" width="244" height="78" /></a></p>
-<p>If you would like to join our discord server for updates and minecraft gameing😎click <a href="https://discord.gg/Ye4ZFf9e3s">here</a></p>
+<p><a href="https://discord.gg/k4UZqzRb5s"><img src="https://i.imgur.com/ixMiOzK.png" alt="Made a couple of Discord join server buttons for all to use. Enjoy! - Album  on Imgur" width="244" height="78" /></a></p>
+<p>If you would like to join our discord server for updates and minecraft gameing😎click <a href="https://discord.gg/k4UZqzRb5s">here</a></p>
 <p>also report bugs to discord or in comments</p>
 <p>&nbsp;</p>
 <p><strong>If anyone would like to help me with this project that would be awesome, there is a lot of finish and my coding sucks.</strong></p>
